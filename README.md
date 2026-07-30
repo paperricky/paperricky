@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,github,vscode,discord&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=lua,vscode,visualstudio,github,discord&theme=dark"/>
 </p>
 
 ---
