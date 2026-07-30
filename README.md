@@ -6,9 +6,8 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=lua,vscode,git,github,discord&theme=dark"/>
 </p>
-
 
 ---
 
