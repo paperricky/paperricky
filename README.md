@@ -17,8 +17,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paperricky&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
 </p>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/paperricky/paperricky/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
