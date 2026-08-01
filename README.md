@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
 
-<h3 align="center">unreal on fortnite</h3>
+<h3 align="center">👨‍💻 Programmer | ⚙️ Software Developer</h3>
 
 ---
 
-<p align="center">🔥 i love to stream fortnite</p>
+<p align="center">Tools I Work With:</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,vscode&theme=dark"/>
@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-⭐ if you like my stuff, star my repos
+⭐ If you like my work, consider starring my repositories to support me!
 <br/>
 <img src="https://komarev.com/ghpvc/?username=paperricky&style=flat-square&color=blue"/>
 </p>
