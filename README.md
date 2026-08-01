@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">🔥 i am a non-programmer that skids from obama, Tools i might work with:</p>
+<p align="center"><sub>🔥 I am a non-programmer that skids from obama, tools I might work with:</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,github,vscode,lua&theme=dark"/>
