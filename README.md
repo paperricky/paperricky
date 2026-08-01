@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
-<h3 align='center'>i stream fortnite everyday</h3>
+<h3 align='center'>unreal on fortnite</h3>
 ---
 
-<p align='center'>🔥 i have unreal on fortnite type shit</p>
+<p align='center'>🔥 i love to stream fortnite My Technologies/Skills:</p>
 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,vscode&theme=dark"/>
 </p>
+
 
 ---
 
