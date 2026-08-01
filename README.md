@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/paperricky/YOUR_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=YOUR_REPO&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight"/>
   </a>
 </p>
 
