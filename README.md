@@ -7,7 +7,7 @@
 <p align="center">🔥 i am a non-programmer that skids from obama, Tools i might work with:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,nodejs,react,git,github,vscode,rust,lua&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=,git,github,vscode,rust,lua&theme=dark"/>
 </p>
 
 ---
