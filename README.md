@@ -1,38 +1,44 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
-<h3 align='center'>unreal on fortnite</h3>
+
+<h3 align="center">unreal on fortnite</h3>
+
 ---
 
-<p align='center'>🔥 i love to stream fortnite</p>
-
+<p align="center">🔥 i love to stream fortnite</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,vscode&theme=dark"/>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paperricky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paperricky&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paperricky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=paperricky&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<h2 align="center">go to this repo</h2>
+---
+
+<h3 align="center">📌 go to this repo</h3>
 
 <p align="center">
   <a href="https://github.com/paperricky/ricky">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight&hide_border=true"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
-
-<p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider <b>starring</b> my repositories!<br/>
-<img src="https://komarev.com/ghpvc/?username=sillypaper0-cell&style=flat-square&color=blue"/>
+<a href="https://github.com/paperricky">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ if you like my stuff, star my repos
+<br/>
+<img src="https://komarev.com/ghpvc/?username=paperricky&style=flat-square&color=blue"/>
 </p>
