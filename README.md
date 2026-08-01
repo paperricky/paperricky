@@ -18,17 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paperricky&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=paperricky&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paperricky&theme=tokyonight&no-frame=true"/>
+  <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,vscode,git,github&theme=dark"/>
 </p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
