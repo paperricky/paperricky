@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">📌 Go to this repo</h3>
+<h3 align="center">Go to this repo</h3>
 
 <p align="center">
   <a href="https://github.com/paperricky/ricky">
