@@ -2,7 +2,7 @@
 <h3 align='center'>unreal on fortnite</h3>
 ---
 
-<p align='center'>🔥 i love to stream fortnite My Technologies/Skills:</p>
+<p align='center'>🔥 i love to stream fortnite</p>
 
 
 <p align="center">
@@ -19,7 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paperricky/paperricky/output/github-contribution-grid-snake-dark.svg"/>
+  <a href="https://github.com/paperricky/YOUR_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=YOUR_REPO&theme=tokyonight"/>
+  </a>
 </p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
