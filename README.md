@@ -18,15 +18,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/paperricky/ricky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight"/>
-  </a>
-</p>
+<h2 align="center">go to this repo</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paperricky&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paperricky&theme=tokyonight"/>
+  <a href="https://github.com/paperricky/ricky">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight&hide_border=true"
+    />
+  </a>
 </p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
