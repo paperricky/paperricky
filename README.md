@@ -4,6 +4,10 @@
 
 ---
 
+<h3 align="center">Learning, experimenting, and building random things</h3>
+
+---
+
 <p align="center">🔥 i am a non-programmer that skids from obama, Tools i might work with:</p>
 
 <p align="center">
