@@ -8,7 +8,10 @@
 
 ---
 
-<p align="center"><sub>🔥 i am a non-programmer skidding from obama, learning new things and building stuff, tools, and random projects. Tools I might work with:</sub></p>
+<p align="center">
+🔥 i am a non-programmer skidding from obama, learning new things, building random projects,<br/>
+and messing around with different tools. Tools I might work with:
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,github,vscode,lua&theme=dark"/>
