@@ -12,7 +12,11 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sillypaper0-cell&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sillypaper0-cell&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillypaper0-cell&theme=tokyonight&layout=compact&hide_border=true" height="160"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paperricky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paperricky&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperricky&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
+</p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
