@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
 
-<h3 align="center">fucking love obama</h3>
+<h3 align="center"></h3>
 
 ---
 
-<p align="center">Tools I Work With:</p>
+<p align="center">🔥 i am a non-programmer that skids from obama My Technologies/Skills:</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,vscode&theme=dark"/>
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">📌 go to this repo</h3>
+<h3 align="center">📌 Go to this repo</h3>
 
 <p align="center">
   <a href="https://github.com/paperricky/ricky">
