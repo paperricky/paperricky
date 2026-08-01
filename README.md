@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">Learning, experimenting, and building random things</h3>
+<h3 align="center">💻 Learning, experimenting, and building random things</h3>
 
 ---
 
