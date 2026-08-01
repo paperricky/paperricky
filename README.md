@@ -17,10 +17,6 @@
   <img src="https://streak-stats.demolab.com?user=paperricky&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-<h3 align="center">Go to this repo</h3>
-
 <p align="center">
   <a href="https://github.com/paperricky/ricky">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paperricky&repo=ricky&theme=tokyonight&hide_border=true"/>
