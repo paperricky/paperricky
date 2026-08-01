@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
 
-<h3 align="center">👨‍💻 Programmer | ⚙️ Software Developer</h3>
+<h3 align="center">fucking love obama</h3>
 
 ---
 
