@@ -19,11 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paperricky&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paperricky&theme=tokyo-night&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=paperricky&style=for-the-badge&color=00FFFF"/>
+  <img src="https://img.shields.io/github/followers/paperricky?style=for-the-badge&color=00FFFF"/>
 </p>
 
 <p align='center'><a href="https://github.com/paperricky"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
