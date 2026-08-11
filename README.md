@@ -19,7 +19,7 @@ and messing around with different tools. Tools I might work with:
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">🌐 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paperricky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160"/>
