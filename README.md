@@ -41,7 +41,7 @@ and messing around with different tools. Tools I might work with:
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories to support me!
+⭐ If you like my work, consider starring my repositories
 <br/>
 <img src="https://komarev.com/ghpvc/?username=paperricky&style=flat-square&color=blue"/>
 </p>
