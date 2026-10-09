@@ -14,7 +14,7 @@ and messing around with different tools. Tools I might work with:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,github,vscode,lua&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,github,vscode,lua,csharp&theme=dark"/>
 </p>
 
 ---
