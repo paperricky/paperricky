@@ -1,12 +1,3 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
-
-<h3 align="center"></h3>
-
----
-
-<h3 align="center">💻 Im unreal on fortnite, balright</h3>
-
----
 
 <p align="center">
 🔥 i am a non-programmer skidding from obama, learning new things, building random projects,<br/>
