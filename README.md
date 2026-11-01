@@ -1,7 +1,5 @@
 
-<p align="center">
-🔥 i am a non-programmer skidding from obama, learning new things, building random projects,<br/>
-and messing around with different tools. Tools I might work with:
+<p align="center">Tools I might work with:
 </p>
 
 <p align="center">
